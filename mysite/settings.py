@@ -25,7 +25,7 @@ SECRET_KEY = 'fo3n9f(!vc5579^1vvlox!l#f($^pv*cv!7lowm66i3qcsea3l'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'djangogirlseva']
+ALLOWED_HOSTS = ['127.0.0.1', 'djangogirlseva', 'superjuliettecat.pythonanywhere.com']
 
 
 # Application definition
